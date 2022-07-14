@@ -1,4 +1,4 @@
-# Weather-app
+# Show the Weather
 Simple weather app using HTML, CSS, and JavaScript
 
 
